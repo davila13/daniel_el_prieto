@@ -1,0 +1,26 @@
+.tabla{
+	margin:auto;
+	border: 1px solid;
+	text-align: center;
+	border-spacing:10px;
+	background:#6495ED;
+}
+.tabla .imagenes{
+	border:1px solid;
+}
+td{
+	border:1px solid;
+}
+tr:hover{
+	background:#D8BFD8;
+}
+.tabla .imagenes img:hover{
+	 width:98%;
+	 height:98%;
+}
+.tabla th{
+	background:#DCDCDC;
+}
+body{
+	background-image:url(../IMAGENES/fondo2.jpg);
+}

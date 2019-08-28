@@ -1,0 +1,107 @@
+.fondo{
+	width:100.1%;
+	height:100.1%;
+	padding-top:-1;
+	margin-top:-0.7%;
+	margin-left:-0.7%;
+	position:absolute;
+}
+.img_fondo{
+	width:100%;
+	height:100%;
+}
+.titulo{
+	position:absolute;
+	color:#1E90FF;
+	margin-top:12%;
+	margin-left:10%;
+}
+.logo{
+	position:absolute;
+	margin-left:15%;
+	margin-top:6%;
+}
+.lista{
+	position:absolute;
+	background:#7B68EE;
+	width:25%;
+	height:60%;
+	text-align:center;
+	margin-left:72%;
+	margin-top:13%;
+}
+.lista .menu{
+	background:#FFF8DC;
+	margin:auto;
+	margin-top:1.9%;
+	width:97%;
+	height:97%;
+}
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+	display: block;
+	padding:11%;
+}
+
+li a:hover{
+	background: #F5DEB3;
+}
+.letras{
+	position:absolute;
+}
+.letras{
+	width:20%;
+	height:25%;
+	margin-left:72.9%;
+	top:5%;
+}
+.letras1{
+	width:100%;
+	height:100%;
+
+}
+.tienda{
+	position:absolute;
+	width:17%;
+	height:35%;
+	background:#D8BFD8;
+	margin-top:24%;
+	margin-left:10%;
+	border-radius:19%;
+}
+.tienda1{
+	width:100%;
+	height:100%;
+	border-radius:70%;
+}
+.titulo2{
+	position:absolute;
+	color:#1E90FF;
+	margin-top:20.9%;
+	margin-left:26%;
+	color:#FFFF00;
+}
+.estante,.llanta{
+	position:absolute;
+	width:17%;
+	height:35%;
+	background:#D8BFD8;
+	border-radius:19%;
+	margin-top:24%;
+}
+.estante1,.llanta1{
+	width:100%;
+	height:100%;
+	border-radius:70%;
+}
+.estante{
+	margin-left:28%;
+}
+.llanta{
+	margin-left:48%;
+}
